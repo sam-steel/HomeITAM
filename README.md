@@ -7,6 +7,8 @@
 
 HomeITAM is a self-hosted platform designed to solve the physical reality of managing a complex smart home. While dashboards like Home Assistant show you the *digital* state of your home, HomeITAM tracks the *physical* state: where devices are installed, how they are wired, when their batteries die, and what happens when the primary host fails.
 
+Most importantly, the data is all stored locally and there are no ongoing subscription costs.
+
 ## Features
 
 - 📍 **The "Behind the Drywall" Problem:** Track exactly which junction box a relay is installed in, and upload pre-drywall framing photos so you never lose a wire again.
