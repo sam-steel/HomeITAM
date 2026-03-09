@@ -3,7 +3,7 @@ version: '3.8'
 services:
   homeitam:
     # Replace 'yourusername' with your actual GitHub username
-    image: ghcr.io/yourusername/homeitam:latest
+    image: ghcr.io/sam-steel/homeitam:latest
     container_name: homeitam
     ports:
       - "3000:3000"
