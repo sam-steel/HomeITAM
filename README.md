@@ -6,11 +6,11 @@ HomeITAM is a self-hosted platform designed to solve the physical reality of man
 
 ## Features
 
-- 📍 **The "Behind the Drywall" Problem:** Track exactly which junction box a relay is installed in, and upload pre-drywall framing photos so you never lose a wire again.
-- 💀 **The "Dead Host" Problem:** Maintain a disaster recovery manual. If your primary server dies, HomeITAM stores the switch ports, VLAN tags, and Docker Compose snippets needed to rebuild from scratch.
-- 🔋 **Lifecycle Management:** Track battery levels, replacement dates, and warranty expirations across all your hardware.
-- 📄 **Handover Protocol:** Generate a beautiful PDF export of your entire smart home infrastructure to hand over to a new buyer when you sell your house.
-- 🔒 **Secure by Design:** Built with AES-256-GCM encryption for sensitive data, JWT authentication, and a heavily obfuscated backend.
+- **The "Behind the Drywall" Problem:** Track exactly which junction box a relay is installed in, and upload pre-drywall framing photos so you never lose a wire again.
+- **The "Dead Host" Problem:** Maintain a disaster recovery manual. If your primary server dies, HomeITAM stores the switch ports, VLAN tags, and Docker Compose snippets needed to rebuild from scratch.
+- **Lifecycle Management:** Track battery levels, replacement dates, and warranty expirations across all your hardware.
+- **Handover Protocol:** Generate a beautiful PDF export of your entire smart home infrastructure to hand over to a new buyer when you sell your house.
+- **Secure by Design:** Built with AES-256-GCM encryption for sensitive data, JWT authentication, and runs locally.
 
 ## Licensing Model (Freemium)
 
